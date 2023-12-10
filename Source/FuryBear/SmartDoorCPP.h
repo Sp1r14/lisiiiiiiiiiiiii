@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Engine/StaticMeshActor.h"
-#include "OpenDoorInterface.h"//interface
+//#include "OpenDoorInterface.h"//interface
 #include <Components/WidgetComponent.h>
 #include <Components/TimelineComponent.h>
 #include "SmartDoorCPP.generated.h"
